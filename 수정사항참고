@@ -1,0 +1,1 @@
+2025.02.07 DeepAccNet-noPyRosetta.py로 실행해야함. 파이로제타 실행 오류남.(__mul__이 없다 어쩌고), 우분투에서 서브폴더 한번에 모두 실행하는 자동화 파일 run_all.sh 추가, 결과로 평균 lddt 추출해서 저자하는 result.py 추가
